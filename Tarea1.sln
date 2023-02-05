@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volumen de figuras", "Volum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones Trigonometricas", "Funciones Trigonometricas\Funciones Trigonometricas.csproj", "{ECF02B81-9503-44DE-92A0-2DF243BB68AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operaciones de fracciones", "Operaciones de fracciones\Operaciones de fracciones.csproj", "{569F9263-18AE-4977-A4D9-FD91A1A481F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ECF02B81-9503-44DE-92A0-2DF243BB68AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF02B81-9503-44DE-92A0-2DF243BB68AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF02B81-9503-44DE-92A0-2DF243BB68AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569F9263-18AE-4977-A4D9-FD91A1A481F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569F9263-18AE-4977-A4D9-FD91A1A481F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569F9263-18AE-4977-A4D9-FD91A1A481F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569F9263-18AE-4977-A4D9-FD91A1A481F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
