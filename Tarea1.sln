@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea1", "Tarea1\Tarea1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{9346EA22-89CB-4CF7-A3AD-8C6E1D3812B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora de areas", "Calculadora de areas\Calculadora de areas.csproj", "{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9346EA22-89CB-4CF7-A3AD-8C6E1D3812B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9346EA22-89CB-4CF7-A3AD-8C6E1D3812B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9346EA22-89CB-4CF7-A3AD-8C6E1D3812B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
