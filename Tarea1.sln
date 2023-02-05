@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora de areas", "Calculadora de areas\Calculadora de areas.csproj", "{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volumen de figuras", "Volumen de figuras\Volumen de figuras.csproj", "{8A12EE08-6713-4D83-A0FC-A0D44B33E98E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15DB7F6D-8D7C-4166-AE86-46BA9FEAB973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A12EE08-6713-4D83-A0FC-A0D44B33E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A12EE08-6713-4D83-A0FC-A0D44B33E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A12EE08-6713-4D83-A0FC-A0D44B33E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A12EE08-6713-4D83-A0FC-A0D44B33E98E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
