@@ -15,6 +15,7 @@ namespace Calificacion
             Console.WriteLine("Cuantas calificaciones quiere añadir?");
             int cant = int.Parse(Console.ReadLine());
             int promedio = 0;
+            string literal = "";
 
             List<int> calificaciones = new List<int>();
 
@@ -30,7 +31,28 @@ namespace Calificacion
                 promedio += item;
             }
             promedio = promedio / calificaciones.Count;
-            Console.WriteLine("El promedio es de " + promedio);
+
+            if (promedio >= 90)
+            {
+                literal += "A";
+            }
+            else if (promedio >= 80)
+            {
+                literal += "B";
+            } 
+            else if (promedio >= 70) {
+                literal += "C";
+            }
+            else if (promedio >= 60)
+            {
+                literal += "D";
+            }
+            else {
+                Console.WriteLine("F");
+            }
+
+
+            Console.WriteLine("El promedio es de " + promedio + " y seria una " + literal);
             Console.ReadLine();
         }
     }
