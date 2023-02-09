@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calificacion", "Calificacio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saldo neto", "Saldo neto\Saldo neto.csproj", "{2ED4459A-D60F-43E6-BE81-8C3036AA96EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primer grado", "Primer grado\Primer grado.csproj", "{B0906323-53B6-43F0-A8F0-792FE26D58E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{2ED4459A-D60F-43E6-BE81-8C3036AA96EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ED4459A-D60F-43E6-BE81-8C3036AA96EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ED4459A-D60F-43E6-BE81-8C3036AA96EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0906323-53B6-43F0-A8F0-792FE26D58E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0906323-53B6-43F0-A8F0-792FE26D58E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0906323-53B6-43F0-A8F0-792FE26D58E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0906323-53B6-43F0-A8F0-792FE26D58E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
