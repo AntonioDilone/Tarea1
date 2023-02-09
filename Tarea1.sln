@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primer grado", "Primer grad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinaciones", "Combinaciones\Combinaciones.csproj", "{39F0917D-D645-43EA-9245-3C306071F473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Billetes\Billetes.csproj", "{95DE59A6-C875-43F4-9B2E-CD25A87B1581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{39F0917D-D645-43EA-9245-3C306071F473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39F0917D-D645-43EA-9245-3C306071F473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39F0917D-D645-43EA-9245-3C306071F473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DE59A6-C875-43F4-9B2E-CD25A87B1581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DE59A6-C875-43F4-9B2E-CD25A87B1581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DE59A6-C875-43F4-9B2E-CD25A87B1581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DE59A6-C875-43F4-9B2E-CD25A87B1581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
